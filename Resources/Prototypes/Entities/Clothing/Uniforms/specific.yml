@@ -8,7 +8,7 @@
     - type: Tag
       tags: [] # ignore "WhitelistChameleon" tag
     - type: Sprite
-      sprite: Clothing/Uniforms/Jumpsuit/color.rsi
+      sprite: _ST/Clothing/Uniforms/Jumpsuit/color.rsi
       layers:
       - state: icon
         color: "#3f3f3f"
